@@ -4,7 +4,7 @@
 
 [![Dependency Status](https://david-dm.org/danibram/adyen-client.svg)](https://david-dm.org/danibram/adyen-client)
 
-Adyen client
+Adyen client uuu
 
 ## Getting started
 
